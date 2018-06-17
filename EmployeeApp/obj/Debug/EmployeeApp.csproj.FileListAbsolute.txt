@@ -1,0 +1,10 @@
+c:\users\user\source\repos\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+c:\users\user\source\repos\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+c:\users\user\source\repos\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+c:\users\user\source\repos\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojAssemblyReference.cache
+c:\users\user\source\repos\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.Form1.resources
+c:\users\user\source\repos\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.Properties.Resources.resources
+c:\users\user\source\repos\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.GenerateResource.cache
+c:\users\user\source\repos\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+c:\users\user\source\repos\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
